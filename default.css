@@ -11,7 +11,7 @@ body {
 }
 
 a {
-	color: #067e08;
+	color: #0b9438;
 	text-decoration: none;
 }
 
@@ -151,9 +151,11 @@ article {
 	padding-left: 20px;
 	padding-right: 20px;
 }
+
 li {
 	text-indent: 0em;
 }
+
 article h2 {
 	margin-top: -8px;
 }
@@ -205,7 +207,7 @@ aside ul li a:hover {
 	background-color: #f0ff9cac;
 	text-align: justify;
 	border-top: 1px dotted #999;
-	border-bottom: 0px 
+	border-bottom: 0px
 }
 
 #side-nav {
